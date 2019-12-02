@@ -3,7 +3,8 @@ Summaries of some NLP research papers
 
 - The summaries are originally a part for [UCLA CS249 (Professor Cho, Spring 2019)](http://oak.cs.ucla.edu/classes/cs249).   
 - Note: Just for reference, and **plagiarism** will result in the risk of **penalty**. 
-- [Paper list](http://oak.cs.ucla.edu/classes/cs249/notes/papers.html):
+    
+[Paper list](http://oak.cs.ucla.edu/classes/cs249/notes/papers.html):
 1. Yoshua Bengio, et al.: A Neural Probabilistic Language Model, J. of Machine Learning Research, 2003.
 1. Tomas Mikolov, et al.: Distributed Representations of Words and Phrases and their Compositionality, NIPS 2013.
 1. Jeffrey Pennington, et al.: GloVe: Global Vectors for Word Representation, 2014.
